@@ -1,4 +1,4 @@
-# Calculadora de média - Yasmin de Matos
+<h1 align="center"> Calculadora de média de notas - Yasmin de Matos </h1>
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/yasmindematos/pen/LYdQGWW](https://codepen.io/yasmindematos/pen/LYdQGWW).
+Código originalmente criado em CodePen.io. Original URL: [https://codepen.io/yasmindematos/pen/LYdQGWW](https://codepen.io/yasmindematos/pen/LYdQGWW).
 
