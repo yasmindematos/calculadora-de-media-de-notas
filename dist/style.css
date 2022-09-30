@@ -1,0 +1,89 @@
+body {
+  font-family: "Tangerine", serif;
+  min-height: 800px;
+  background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p3/2202110-futuristic-technology-background");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.grid1 {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 15% 50%;
+  justify-items: center;
+  grid-template-areas:
+    ´
+    grid2
+    grid3
+    ´;
+}
+
+.grid2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100px;
+  height: 50px;
+
+  grid-area: "grid2";
+}
+
+.grid3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  width: 500px;
+  height: 500px;
+
+  grid-area: "grid3";
+
+  background-image: url("https://cdn-icons-png.flaticon.com/512/1087/1087195.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 85% 90%;
+
+  color: black;
+}
+
+.media {
+  margin-top: 15%;
+}
+
+.calculo {
+  margin-top: 10%;
+}
+
+h2 {
+  color: white;
+  margin-bottom: 100%;
+}
