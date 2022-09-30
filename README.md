@@ -9,3 +9,7 @@ Código originalmente criado em CodePen.io, podendo ser acessado em: [https://co
 Projeto em desenvolvimento para o curso "Empower Code for women | Alura Include | Zenvia". 
 
 A Calculadora de média de notas tem a função de calcular as médias de notas de diferentes bimestres e apresentar o resultado da média dentre todo o ano.
+
+# Autora
+
+[<img src="https://avatars.githubusercontent.com/u/98225965" width=115><br><sub>Yasmin de Matos</sub>](https://github.com/yasmindematos) 
