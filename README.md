@@ -7,17 +7,16 @@
 <br>
 A Calculadora de média de notas tem a função de calcular as médias de notas de diferentes bimestres e apresentar o resultado da média dentre todo o ano.
 
-<br><br>
+<br>
 ➡️ Código pode ser acessado em: [https://codepen.io/yasmindematos/pen/LYdQGWW](https://codepen.io/yasmindematos/pen/LYdQGWW).
 
 <br>
 <div style="display: inline_block" align="center">
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
+</div>
   
 <hr>
-<br>
 <div style="display: inline_block" align="center">  
 <h2 align="center"><strong>🛠  Linguagens e Ferramentas usadas:</strong></h1><br>
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -29,7 +28,6 @@ A Calculadora de média de notas tem a função de calcular as médias de notas 
 
 
 <hr>
-<br>
 <h2 align="center"><strong>💻 Projeto - Empower Code for women | Alura Include | Zenvia</strong></h1><br>
 Projeto em desenvolvimento para o curso "Empower Code for women | Alura Include | Zenvia" - programa de formação Front-End realizado pela empresa Zenvia em parceria com a escola Alura, tendo este bootcamp a finalidade de capacitar mulheres na área tecnológica.
 <br>
