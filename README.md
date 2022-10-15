@@ -27,7 +27,7 @@ A Calculadora de média de notas tem a função de calcular as médias de notas 
 </div>
 <br>
 
-</div>       
+
 <hr>
 <br>
 <h2 align="center"><strong>💻 Projeto - Empower Code for women | Alura Include | Zenvia</strong></h1><br>
