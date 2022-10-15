@@ -8,10 +8,13 @@
 A Calculadora de média de notas tem a função de calcular as médias de notas de diferentes bimestres e apresentar o resultado da média dentre todo o ano.
 
 <br>
-➡️ Código pode ser acessado em: [https://codepen.io/yasmindematos/pen/LYdQGWW](https://codepen.io/yasmindematos/pen/LYdQGWW).
+<br>
+➡️ Código pode ser acessado em: https://codepen.io/yasmindematos/pen/LYdQGWW
 
 <br>
 <div style="display: inline_block" align="center">
+
+<br>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 </div>
